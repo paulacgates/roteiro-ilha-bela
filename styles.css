@@ -1,0 +1,49 @@
+html,
+body {
+  background-color: #073305;
+  font-family: Roboto;
+}
+h1 {
+  color: #ffffff;
+}
+h2 {
+  color: green;
+  font-size: 20px;
+}
+
+img {
+  border-radius: 10px;
+  height: 400px;
+  width: 400px;
+}
+.btn-primary {
+  background-color: green;
+  border-color: #1c4d06;
+  min-height: 50px;
+}
+.btn-primary:hover {
+  background-color: rgb(0, 92, 28);
+  border-color: #1c4d06;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: green;
+}
+.nav-pills .nav-link.active {
+  background-color: green;
+}
+
+.list-group-item {
+  color: #4c4c4c;
+}
+.card {
+  background-color: #fff;
+}
+.main-card-content {
+  min-width: 60rem;
+  min-height: 50rem;
+}
