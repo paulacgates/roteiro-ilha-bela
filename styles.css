@@ -48,6 +48,12 @@ img {
   justify-content: center;
   width: 60rem;
 }
+
+.footer-page{
+  font-size: 13px;
+  margin-top: 20px;
+  color: white;
+}
 @media (max-width: 720px) {
   img {
     max-width: 100%;
