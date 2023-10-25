@@ -43,7 +43,20 @@ img {
 .card {
   background-color: #fff;
 }
-.main-card-content {
-  min-width: 60rem;
-  min-height: 50rem;
+
+.main-card-content{
+  justify-content: center;
+  width: 60rem;
+}
+@media (max-width: 720px) {
+  img {
+    max-width: 100%;
+    min-width: 300px;
+    min-height: 250px;
+    max-height: 300px;
+  }
+  .main-card-content{
+    width: 100%;
+  }
+
 }
