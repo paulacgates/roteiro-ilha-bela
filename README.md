@@ -1,5 +1,5 @@
 # ROTEIRO ILHA BELA
-Roteiro em produção para viagem de ilha bela para o meu namorado ler.
+Roteiro em produção para viagem de ilha bela para o meu namorado ler. Pode acessá-lo por esse link: https://paulacgates.github.io/roteiro-ilha-bela/
 
 Obs: Esse roteiro foi feito para ele ler...Mas caso tenha curiosidade ou deseja pegar algumas dicas de lugares, fique a vontade!
 
